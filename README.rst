@@ -1,5 +1,9 @@
-SwiftRiver Content Duplication Service (SiCDS)
-==============================================
+SwiftRiver Content De-duplication Service (SiCDS)
+=================================================
+
+Deprecated.
+
+
 
 Overview
 --------
