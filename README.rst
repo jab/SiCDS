@@ -1,8 +1,12 @@
-SwiftRiver Content De-duplication Service (SiCDS)
-=================================================
+SwiftRiver Content Deduplication Service (SiCDS)
+================================================
 
-Deprecated.
+Notice
+------
 
+This was completed for the
+`SwiftRiver <http://www.ushahidi.com/product/swiftriver/>`_ project in 2010
+and is no longer in use.
 
 
 Overview
