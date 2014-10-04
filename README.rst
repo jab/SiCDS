@@ -1,5 +1,5 @@
-SwiftRiver Content Deduplication Service (SiCDS)
-================================================
+SwiftRiver Content Deduplication Service
+========================================
 
 Notice
 ------
